@@ -20,25 +20,7 @@ require('angular').module('app', [
 .constant('yaml', require('js-yaml'))
 .constant('md', require('marked'))
 .constant('stories', [
-    'beings_from_beyond.md',
-    'black_dog_bark.md',
-    'born_at_dusk.md',
-    'chimera.md',
-    'death_coffin_maker.md',
-    'fear_itself.md',
-    'indomitable.md',
-    'interview_with_a_genejack.md',
-    'myleton_motor_inn.md',
-    'names.md',
-    'night_judge.md',
-    'no_greater_act.md',
-    'self_defense.md',
-    'spei_mythos.md',
-    'the_buddha_of_accounting.md',
-    'the_human_spirit.md',
-    'the_secret_life_of_accountants.md',
-    'the_specter.md',
-    'willful_ignorance.md'
+    'robot_capitalism.md'
 ])
 .constant('months', [
   "January", 

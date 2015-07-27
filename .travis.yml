@@ -1,5 +1,4 @@
 language: node_js
-sudo: false
 cache:
   directories:
     - node_modules
@@ -10,5 +9,6 @@ after_success:
 - npm run build && npm run deploy
 env:
   global:
-  - GH_REF: github.com/garbados/stories
-  - secure: "YTaWwrotuiFDxuXMmwBSgO42uNYz4C6l1K401y1c394B6s79ZQC0ibhp+6m1xbMADWk9CEEE29nB+Rlf8ynfZp5Xjxp3KjM3kzib/NUDUl667h3iuN8rFiR1BSo5nvInpcGtOlfPMFJJsnESjqoL+JsbpOg7QArJNzXvSGAQXBM="
+  - GH_REF: github.com/garbados/recent_stories
+  - secure: "kF544XHX/RI3EFzpD0TAcETVkel2WdNyheXuZWyFUWaPPwJ/4Bb1/NtqhyVvTxXEKwbY6UcT0VUjdRO6nDTVNu/LgoBF5aD61+x7H65l6PxSBxwh3NFBNrWukjHPKysnQt0sj6VVzndVuVam5MrIEiPXC9LfPvgSxiR8ScahrI6vxZwkvS8t9d47XIUB49kD5zEfCXt4edUcTf+3ySxIUly/U0PFt3wZQiBtMG9GutEc9FnBdKKELLc4sh2t5HoKIQJKxyiQnVRxD4CKthI0Fqw3Ok2emO7gPb9M7Sxtt8nQh8knkSSeR+ODq84r4Gxw1cgLB6WlaqDmCYyuOC1SAwKY+4VeiajRTt0rDcs6rNxKibCsr2a3sUCNtbyzWg+FHEbPhPDm39xULpJlNSngUe6NocOVLY4K5xfhjLc2gM5tI72vVKgMUiSg4efP0QmPWSp8Pxz//s+Idsh9mcFuhD1DUMGi54MdDFIOXqHkeEM2bcoq3Qp4wQGq/Bawa8ICXC2euYRz/lthszcpgTgX7UWby3vgdQNcDwO+42n9HuatxJ2sME1HVPEofzTzeWgvtm7+8MjMKGpDbF7BfAX7nzpUNVCgT5aaCS6BMOlySrpWEh4cMpK+Hn3WXlCnL/ZjUc89sh01LQ5DX1AbW/5vCgmoIbDndA2mGf7IFrY85M8="
+
