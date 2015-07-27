@@ -1,4 +1,3 @@
-# Stories from 2008-2012
+# Stories from 2015-
 
-I write stories but then I kinda stopped or something for a few years while I grew boobs and stuff. This repo contains those stories, and exposes them as an online anthology [here](). Enjoy!
-
+I write stories about stuff. They live [here](https://garbados.github.io/recent_stories).
