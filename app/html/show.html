@@ -1,7 +1,7 @@
 <div class="col-xs-12">
 	<div class="page-header">
 		<h3>{{ story.title }} <small>{{ story.date_string }}</small></h3>
-		<p>{{ story.summary }}</p>
+		<p ng-hide="story.hide_buttons">{{ story.summary }}</p>
 		<div ng-hide="story.hide_buttons">
 			<button class="btn btn-link" ng-click="story.expand = true" ng-hide="story.expand">Read</button>
 			<button class="btn btn-link" ng-click="story.expand = false" ng-show="story.expand">Close</button>
