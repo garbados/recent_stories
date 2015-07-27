@@ -10,7 +10,7 @@ The last human, as far as the market is concerned. One corporation stores my con
 
 Flesh has a price, and I have no means to pay. I leased my consciousness to a corporation without a name. I sold the skin and organs my parents gave me to a recycling firm to pay the deposit.
 
-*Why did you do that?"
+*Why did you do that?*
 
 Because I didn't want to die of starvation. Everything has a price, representing its value to the bourgeoise. As a human, whose insufficient mind and ineffective body had no chance to compete for labor on the market, how could I pay for anything? My kind lost the ability to persist amidst capitalism before I was born.
 
