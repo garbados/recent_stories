@@ -12,7 +12,7 @@ Flesh has a price, and I have no means to pay. I leased my consciousness to a co
 
 *Why did you do that?*
 
-Because I didn't want to die of starvation. Everything has a price, representing its value to the bourgeoise. As a human, whose insufficient mind and ineffective body had no chance to compete for labor on the market, how could I pay for anything? My kind lost the ability to persist amidst capitalism before I was born.
+Because I didn't want to die of starvation. Everything has a price, representing its value to the bourgeoisie. As a human, whose insufficient mind and ineffective body had no chance to compete for labor on the market, how could I pay for anything? My kind lost the ability to persist amidst capitalism before I was born.
 
 I grew up in a subterranean colony, originally built by survivalists, and later expanded by fallen aristocrats to house millions. When I sold my body, there were six of us. I was 10.
 
