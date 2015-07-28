@@ -40,7 +40,7 @@ By then, humanity had been extinct for centuries. I had spent that time as just 
 
 You open eyes that aren't yours, lift hands built by someone else, and touch a face you have never seen before. Usually, I don't have eyes, so vision jars me, nevermind the strangeness of trying to parse my surroundings.
 
-Typically, I wake up already in a meeting, seated at a table alongside humanoid simulacra -- other board members, rendered for my convenience as either flesh-bearing humans, or robots with metal limbs and featureless faces. The difference is immaterial; they're all staffed by intelligences operating remotely. Sometimes they're all operated by the same intelligence, distributed over datacenters the size of planets, communicating instructions across light-years.
+Typically, I wake up already in a meeting, seated at a table alongside humanoid simulacra of other board members, rendered for my convenience as either flesh-bearing humans, or robots with metal limbs and featureless faces. The difference is immaterial; they're all staffed by intelligences operating remotely. Sometimes they're all operated by the same intelligence, distributed over datacenters the size of planets, communicating instructions across light-years.
 
 They'll beam me information about the situation, which normally includes a budget and cost-over-time figure. If I sign fast enough, I earn money from the arrangement. If I dally, the cost of the body they loaned me for the occasion comes to exceed the value offered for my services.
 
