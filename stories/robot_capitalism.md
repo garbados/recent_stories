@@ -50,7 +50,7 @@ I saw a white planet, streaked in red and tan, and criss-crossed by grey dots me
 
 In the distance, orbitting debris coalesced into rings. Where mining machines had gone, gaps in the rings hung in space like ribbons of nothing.
 
-What remained of Sol's sun lit the scene. Solar arrays blocked most of the light, so that to me, I saw only a crimson pock glittering. The arrays flew in regulated patterns, allowing light to shine where it had been paid for.
+What remained of Sol's sun lit the scene. Solar arrays blocked most of the light, so that I saw only a crimson pock glittering. The arrays flew in regulated patterns, allowing light to shine where it had been paid for.
 
 Once I tore my eyes from the window, I signed the papers before me, and fell back into the abyss where I am stored. I spent years poring over what I had seen, learning the patterns that led to that moment. The orbits of debris, the schematics of the machines, the names of the objects I saw disappearing into the hulls of miners, and the places where distant stars used to shine...
 
