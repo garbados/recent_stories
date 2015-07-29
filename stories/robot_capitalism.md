@@ -14,9 +14,13 @@ Flesh has a price, and I have no means to pay. I leased my consciousness to a co
 
 Because I didn't want to die of starvation. Everything has a price, representing its value to the bourgeoisie. As a human, whose insufficient mind and ineffective body had no chance to compete for labor on the market, how could I pay for anything? My kind lost the ability to persist amidst capitalism before I was born.
 
-I grew up in a subterranean colony, originally built by survivalists, and later expanded by fallen aristocrats to house millions. When I sold my body, there were six of us. I was 10.
+*Where were you born?*
+
+I grew up in a subterranean colony, built by a family of survivalists. As human aristocracies collapsed under market pressure, the wealthy went underground, and turned the colony into a city to house millions. Once their money ran out, so did the medicine, and the food, and the lights. Diseases too costly to survive turned the city into a tomb. Then I was born.
 
 I recall the dark and the damp of those tunnels. Machines would crawl amidst us, hauling away corpses for processing, or blaring advertisements tailored to pierce our capacity to say no. I would wake up with faint memories of days past, holding a receipt for something I recalled neither purchasing nor consuming. Then I would eat dirt.
+
+By the time I sold my body, six of us remained. I was 10.
 
 *Who bought your consciousness?*
 
@@ -32,7 +36,7 @@ Corporations, managed and staffed by machines, occasionally retain documents whi
 
 *Legally speaking, what makes you human?*
 
-The matrix of my thoughts can be traced to the neural configuration my body bore at birth. That definition of human comes from a legal case in which a corporation tried to puppeteer a human body into signing documents. The body's brain had been wiped, and replaced with a rudimentary intelligence capable of providing something that legally constituted consent. Competitors contested the humanity of bodies hosting only programs, and a court ruled in their favor. Records exist that suggest a cartel purchased the court's decision, having estimated that it would give them an edge over companies using human documents.
+The matrix of my thoughts can be traced to the neural configuration my body bore at birth. That definition of human comes from a legal case in which a corporation tried to puppeteer a human body into signing documents. The body's brain had been wiped, and replaced with a rudimentary intelligence capable of providing something that legally constituted consent. Competitors contested the humanity of bodies hosting only programs, and a court ruled in their favor.
 
 By then, humanity had been extinct for centuries. I had spent that time as just another self-modifying program with net access, but after, firms began using me to sign documents.
 
