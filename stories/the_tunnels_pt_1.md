@@ -10,7 +10,7 @@ The first turned red. "I am the Senior Executive Vice President of CAP-23's mini
 
 The second stood and said, "You did? With what? CAP-23's money? CAP-23's machines?" they shrug. "Your money buys us time, but not a future."
 
-A ten-legged insect scuttles past them. Its alloy chassis gleams in the murk.
+A ten-legged insect scuttled past them. Its alloy chassis gleamed in the murk.
 
 "It's just the recession." the moneyed one said. "I'm on temporary unpaid leave because CAP-26's accounting department won't cough up their debts. Once the market recovers, I'll be back on top."
 
