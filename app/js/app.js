@@ -42,7 +42,6 @@ require('angular').module('app', [
   'yaml', 'md', '$sce', 'months',
   function (yaml, md, $sce, months) {
     return function (res) {
-      console.log(res);
       var end_of_metadata = res.data.indexOf('\n\n');
       var metadata = yaml.safeLoad(res.data.slice(0, end_of_metadata));
       var story_date = metadata.date.split(', ');
