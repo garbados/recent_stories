@@ -8,7 +8,7 @@ summary: A work-in-progress preceding the events of Interview with a Human.
 
 The first turned red. "I am the Senior Executive Vice President of CAP-23's mining operations! I paid for this wretched city."
 
-The second stood and said, "You did? With what? CAP-23's money? CAP-23's machines?" they shrug. "Your money buys us time, but not a future."
+The second stood and said, "You did? With what? CAP-23's money? CAP-23's machines?" they shrugged. "Your money buys us time, but not a future."
 
 A ten-legged insect scuttled past them. Its alloy chassis gleamed in the murk.
 
@@ -16,11 +16,11 @@ A ten-legged insect scuttled past them. Its alloy chassis gleamed in the murk.
 
 "Is that so."
 
-Walking on, they continue, "Some of us want to earn a living."
+Walking on, they continued, "Some of us want to earn a living."
 
 -----
 
-Hubertus would buy these people a future. He stood at the entrance to a hydroponics dome, flush with flora. Artificial skylights poured energy on the plants, while long-armed, many-legged creations picked fruit and clipped branches. Thinking about the starving who would thank him, he beamed. The survivors would eat at last.
+Hubertus dreamed of buying these people a future. He stood at the entrance to a hydroponics dome, flush with flora. Artificial skylights poured energy on the plants, while long-armed, many-legged creations picked fruit and clipped branches. Thinking about the starving who would thank him, he beamed. The survivors would eat at last.
 
 He had invested his wealth here. Working for CAP-23, when times had been good, had brought him more money than he understood how to use. He had travelled every continent, and bought homes on most of them. At 22, he made annually what his parents earned in a lifetime. Then CAP-26 stopped paying interest on its debts, and CAP-23 stopped paying wages. Analysts reported the former caused the latter, as CAP-23 could not afford human laborers like Hubertus in a recession. Without money for rent or food or medicine, millions went underground.
 
