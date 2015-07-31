@@ -1,3 +1,7 @@
+date: July, 2015
+title: The Tunnels, part 1
+summary: A work-in-progress preceding the events of Interview with a Human.
+
 "Don't you know who I am?" they shouted, "I built these tunnels!"
 
 "Did you?" another spoke up in a voice like gravel. "It was my hands at the controls."
@@ -36,24 +40,40 @@ It droned, "Test the product for satisfaction, please."
 
 The tunnels reek of death, but you'll never find a body. Metal slugs descend from the shadows as life fades. They emerge to recycle the deceased, one strip of skin at a time. They can hear the screams of the merely-dying, their pleas to stop the cutting, please, don't take my flesh, but they observe that harvesting bodies sooner causes the living to voluntarily metamorphose into corpses.
 
-You know you heard the screams, but what remains to prove it?
+Every protein and hydrocarbon and cell, even dead, has value. The harvesters gather all but the trace particles before crawling back to their hiding places to wait for the next death. 
+
+If you muster the fear and adrenaline to follow the screams, you will find only the scent of iron. There is never blood or bone or hair. Only the ghost of their memory.
+
+You know you heard someone die, but what remains to prove it?
 
 -----
 
-Machines mapped the tunnels more than its inhabitants. Rooms and passages collapsed when mining operations strayed too close to the colony, while newcomers that could would spend what they still possessed on drilling accomodations from the bedrock. Amidst the shifting earth, millions of lives ebbed.
+Machines mapped the tunnels more than its inhabitants. Rooms and passages collapsed when mining operations strayed too close to the colony, while newcomers would spend what they still possessed on drilling accomodations from the bedrock. Amidst the shifting earth, millions of lives ebbed.
 
 "You think you'll save us," someone laughed. Hubertus jumped, turning to see her slumped against the wall of a room cut from the side of the tunnel. It contained a sleeping pad, two empty waterbottles, and her.
 
 Straightening himself, he replied, "Yes. I will."
 
-"That's nice," she sighed. He noticed the ameoboid gripping her skull, covering her eyes and dipping into her ears and nostrils. Across the room, hanging from the ceiling, a machine like a one-eyed spider watched.
+"That's nice," she sighed. An ameoboid gripped her skull, covering her eyes and dipping into her ears and nostrils. Across the room, hanging from the ceiling, a machine like a one-eyed spider watched.
 
 "Are you streaming?" he asked.
 
-"Of course," more laughter, "How do you think I pay for my joy?" she motioned to the thing on her head. Hubertus knew Joy as a program that directly stimulated seratonin and dopamine, sometimes used in medicine, but mostly in the tunnels.
+"Of course," more laughter, "How else did I buy this Joy?" she motioned to the rig on her head. Hubertus knew Joy as a program that directly stimulated seratonin and dopamine in the brain, used in treating depression. Using it recreationally was illegal, if only because it violated the terms of service. But if this person was broadcasting herself tripping, the manufacturer must not care. Anyone with access to the net could see her in every spectrum the watcher could record. Programs used streams like this to understand humans, consuming years of a person's life, of billions of lives, in seconds.
 
------
+"Everything about you is a commodity." Hubertus admonished. "You collect only a fraction of its value."
 
-Time was, humans grew food. So much food, bounties to sustain whole peoples went to rot every day. Now, there is no food. Calories have a cost, and the survivors can rarely pay. Even if you have soil, you must buy seeds; if you have seeds, you must buy water; if you have water, you must buy light. Even then, the sickly result will have cost hundreds of times more than the calories themselves.
+"So what. I feel good. Nothing but good!" she moaned in pleasure or roared in anguish; Herbutus couldn't tell.
 
+"What are you streaming?"
 
+"Myself, duh." she said, "Starving to death."
+
+Hubertus processed this. He wasn't sure what or how to feel.
+
+"Even CAP-21 is watching." she pumped her fists in the air, then slumped again. Her breathing became shallower.
+
+"Why not?" she continued. "What else is there now."
+
+Hubertus looked down the hall. A harvester slug crawled toward them along the ceiling.
+
+Then he ran away.

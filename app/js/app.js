@@ -20,6 +20,7 @@ require('angular').module('app', [
 .constant('yaml', require('js-yaml'))
 .constant('md', require('marked'))
 .constant('stories', [
+    'the_tunnels_pt_1.md',
     'robot_capitalism.md'
 ])
 .constant('months', [
