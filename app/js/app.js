@@ -1,5 +1,5 @@
 require('angular').module('app', [
-  require('angular-route')  
+  require('angular-route')
 ])
 // URL router
 .config([
@@ -20,21 +20,21 @@ require('angular').module('app', [
 .constant('yaml', require('js-yaml'))
 .constant('md', require('marked'))
 .constant('stories', [
-    'the_tunnels_pt_1.md',
-    'robot_capitalism.md'
+    'robot_capitalism.md',
+    'let_me_in.md'
 ])
 .constant('months', [
-  "January", 
-  "February", 
-  "March", 
-  "April", 
-  "May", 
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
   "June",
-  "July", 
-  "August", 
-  "September", 
-  "October", 
-  "November", 
+  "July",
+  "August",
+  "September",
+  "October",
+  "November",
   "December"
 ])
 // factories
